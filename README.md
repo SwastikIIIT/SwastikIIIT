@@ -20,22 +20,26 @@
 
 ---
 
+## <div align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="60"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Good+code+is+like+a+story+well+told" alt="Motivational Quote" /></div>
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
-const swastik = {
-  education: "B.Tech in Computer Science @ IIIT Bhopal (2023-2027)",
-  currentCGPA: 8.8,
-  currentlyWorking: "Full Stack Projects",
-  currentlyLearning: "Advanced Backend Services",
-  competitiveRatings: {
-    codeChef: "3-star (Max: 1613)",
-    codeForces: "1070 rating"
-  },
-  askMeAbout: ["Web Dev", "Next.js", "Backend", "DSA"],
-  funFact: "Love anime (AOT, Solo Levelling, etc.)"
-};
-```
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
+
+I'm a passionate Computer Science student at IIIT Bhopal with a deep love for building real-world applications that solve actual problems. My journey in tech is driven by curiosity and a constant desire to learn and master new technologies.
+
+- 🚀 Passionate about contributing to impactful open-source projects
+- 🌱 Always exploring new domains and technologies to expand my skill set
+- 💡 Keen interest in Web3, DevOps, and emerging tech ecosystems
+- 🔍 Dedicated to writing clean, efficient, and maintainable code
+- 🧩 Problem-solver who enjoys the challenge of competitive programming
+- 📚 Lifelong learner committed to continuous improvement
+- 🤝 Looking to collaborate on innovative full-stack projects
+
+Currently pursuing my B.Tech with a CGPA of 8.8, I balance academic excellence with practical skills development through real-world projects and competitive programming challenges.
 
 ---
 
@@ -52,13 +56,13 @@ const swastik = {
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=CryptoApp&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=crypto-lens&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Post-Pilot&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=post-pilot&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Auth-Backend&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=auth-backend&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
 </div>
 
