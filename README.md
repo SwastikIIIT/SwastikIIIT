@@ -135,7 +135,7 @@ Currently pursuing my B.Tech with a CGPA of 8.8, I balance academic excellence w
 
 <div align="center">
   <h3>📄 <a href="https://drive.google.com/file/d/1IsJCqkgM0htHcxCmFGKELU_eIWipHcSO/view?usp=drive_link">Check out my Resume</a></h3>
-  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R0aHZuMWFhdDN4MHJuZXVzeHNxd3dkMmNveHZxd3VydWh0cmtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
 
 <div align="center">
