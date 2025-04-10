@@ -18,9 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=swastikiiit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
-## <div align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="60"></div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Good+code+is+like+a+story+well+told" alt="Motivational Quote" /></div>
+---
+## <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Good+code+is+like+a+story+well+told" alt="Motivational Quote" /></div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -55,13 +54,13 @@ Currently pursuing my B.Tech with a CGPA of 8.8, I balance academic excellence w
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=crypto-lens&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=CryptoApp&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=post-pilot&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Post-Pilot&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=auth-backend&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Round-Robin-Coupon-Distribution-System&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
 </div>
 
