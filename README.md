@@ -19,7 +19,7 @@
 </p>
 
 ---
-## <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Good+code+is+like+a+story+well+told" alt="Motivational Quote" /></div>
+## <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Dream+in+logic+,+build+in+code" alt="Motivational Quote" /></div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
