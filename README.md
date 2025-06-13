@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px"> 
-  Building the Web, Breaking the Limits — Full Stack Dev with a Taste for Web3, DevOps & CP
+  Building the Web, Breaking the Limits — Full Stack Dev with a Taste for CP
   <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px">
 </h3>
 
