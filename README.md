@@ -31,7 +31,7 @@ I'm a passionate Computer Science student at IIIT Bhopal with a deep love for bu
 
 - 🚀 Passionate about contributing to impactful open-source projects
 - 🌱 Always exploring new domains and technologies to expand my skill set
-- 💡 Keen interest in Web3, DevOps, and emerging tech ecosystems
+- 💡 Keen interest in Backend,DevOps,and emerging tech ecosystems
 - 🔍 Dedicated to writing clean, efficient, and maintainable code
 - 🧩 Problem-solver who enjoys the challenge of competitive programming
 - 📚 Lifelong learner committed to continuous improvement
@@ -88,7 +88,7 @@ Currently pursuing my B.Tech with a CGPA of 8.8, I balance academic excellence w
 - 🏅 Top 5% (33rd place) in Inter-IIIT Coding Contest (OPTIGO) out of 1,000+ participants
 - 🏅 Achieved 3-star rating on CodeChef (Max rating: 1613) and 1070 on Codeforces
 - 🏅 Secured 172nd out of 43,114 participants in CodeChef Starters156
-- 🏅 Solved 600+ DSA problems across CodeChef, Codeforces, and LeetCode
+- 🏅 Solved 800+ DSA problems across CodeChef, Codeforces, and LeetCode
 - 🏅 Advanced to Stage-2 of AlgoUniversity Technology Fellowship program
 
 ---
