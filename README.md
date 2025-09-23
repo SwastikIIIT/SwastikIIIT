@@ -37,16 +37,16 @@ I'm a passionate Computer Science student at IIIT Bhopal with a deep love for bu
 - 📚 Lifelong learner committed to continuous improvement
 - 🤝 Looking to collaborate on innovative full-stack projects
 
-Currently pursuing my B.Tech with a CGPA of 8.8, I balance academic excellence with practical skills development through real-world projects and competitive programming challenges.
+Currently pursuing my B.Tech with a CGPA of 8.97, I balance academic excellence with practical skills development through real-world projects and competitive programming challenges.
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
 
 - 🏆 **CP Team Executive, Codame Club** (Nov 2024 - Present)
-  - Mentored 20+ junior programmers with 60% achieving CodeChef 3-star rating
-  - Organized competitions with 500+ participants
-  - Developed test cases and problem statements
+  - Spearheaded 3+ coding competitions (Optigo,CodeBlitz etc) with 400+ registrations fostering vibrant and
+collaborative coding environement.
+  - Designed problem statements, test cases, and contributed to interactive coding sessions.
 
 ---
 
