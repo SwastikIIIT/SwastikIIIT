@@ -58,14 +58,17 @@ collaborative coding environement.
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Projects
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=CryptoApp&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+  <a href="https://github.com/SwastikIIIT/CryptoCurrency-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=CryptoCurrency-Tracker&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Post-Pilot&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+  <a href="https://github.com/SwastikIIIT/AI-education-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=AI-education-portal&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swastikiiit&repo=Round-Robin-Coupon-Distribution-System&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+  <a href="https://github.com/SwastikIIIT/AuthBackend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=AuthBackend&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
+  </a>
+  <a href="https://github.com/SwastikIIIT/Medical_RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=Medical_RAG&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
   </a>
 </div>
 
@@ -138,10 +141,10 @@ collaborative coding environement.
 ---
 
 <div align="center">
-  <h3>📄 <a href="https://drive.google.com/file/d/1IsJCqkgM0htHcxCmFGKELU_eIWipHcSO/view?usp=drive_link">Check out my Resume</a></h3>
+  <h3>📄 <a href="https://drive.google.com/file/d/1FI_tLF4bCWAQvxMLF7xIN7r6eCqcPrp_/view?usp=sharing">Check out my Resume</a></h3>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R0aHZuMWFhdDN4MHJuZXVzeHNxd3dkMmNveHZxd3VydWh0cmtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/swastikiiit/swastikiiit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+</div> -->
