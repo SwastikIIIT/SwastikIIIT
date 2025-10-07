@@ -103,8 +103,28 @@ collaborative coding environement.
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,react,nextjs,nodejs,express,redux,mongodb,mysql,bootstrap,tailwind,git,github" />
+
+<!-- Core Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify" />
+
+<!-- Tools & Others -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash" />
+
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=swastikiiit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="contribution graph">
