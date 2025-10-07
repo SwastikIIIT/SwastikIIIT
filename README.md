@@ -127,7 +127,7 @@ collaborative coding environement.
 ---
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=swastikiiit&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="contribution graph">
+  <img src="https://github-contributor-stats.vercel.app/api?username=swastikiiit&limit=4&theme=radical&combine_all_yearly_contributions=true" alt="contribution graph">
 </div>
 
 ---
