@@ -126,7 +126,7 @@ collaborative coding environement.
   <a href="https://codeforces.com/profile/swastik_2005" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.leetcode.com/swastik2005ghost" target="_blank">
+  <a href="https://www.leetcode.com/swastik1105" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/swastikiiit" target="_blank">
