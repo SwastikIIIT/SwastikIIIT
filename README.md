@@ -29,13 +29,11 @@
 
 I'm a passionate Computer Science student at IIIT Bhopal with a deep love for building real-world applications that solve actual problems. My journey in tech is driven by curiosity and a constant desire to learn and master new technologies.
 
-- 🚀 Passionate about contributing to impactful open-source projects
 - 🌱 Always exploring new domains and technologies to expand my skill set
-- 💡 Keen interest in Backend,DevOps,and emerging tech ecosystems
-- 🔍 Dedicated to writing clean, efficient, and maintainable code
+- 💡 Keen interest in Frontend,Backend,DevOps,AI and emerging tech ecosystems
 - 🧩 Problem-solver who enjoys the challenge of competitive programming
 - 📚 Lifelong learner committed to continuous improvement
-- 🤝 Looking to collaborate on innovative full-stack projects
+- 🚀 Passionate about contributing to innovative full-stack and open-source projects
 
 Currently pursuing my B.Tech with a CGPA of 8.97, I balance academic excellence with practical skills development through real-world projects and competitive programming challenges.
 
@@ -43,10 +41,16 @@ Currently pursuing my B.Tech with a CGPA of 8.97, I balance academic excellence 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
 
-- 🏆 **CP Team Executive, Codame Club** (Nov 2024 - Present)
+- 🏆 **CP Team Executive, Codame Club** (Nov 2024 - October 2025)
   - Spearheaded 3+ coding competitions (Optigo,CodeBlitz etc) with 400+ registrations fostering vibrant and
 collaborative coding environement.
   - Designed problem statements, test cases, and contributed to interactive coding sessions.
+
+- 👩🏻‍💻 **Web Developer Intern, SoTalented India** (July 2025 - September 2025)
+  - Engineered company website using TypeScript and ReactJS, resulting in 35% faster page load speed based on
+ Google Analytics, and optimizing overall site performance and user experience
+  -  Integrated a user-friendly contact form leveraging REST APIs and Webhooks automating tasks through custom
+ workflows.
 
 ---
 
@@ -86,10 +90,9 @@ collaborative coding environement.
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Achievements
 
 - 🏅 Top 5% (33rd place) in Inter-IIIT Coding Contest (OPTIGO) out of 1,000+ participants
-- 🏅 Achieved 3-star rating on CodeChef (Max rating: 1613) and 1070 on Codeforces
+- 🏅 Achieved 3-star rating on CodeChef (Max rating: 1613),1187 on Codeforces and 1756 on Leetcode(top 9.79%).
 - 🏅 Secured 172nd out of 43,114 participants in CodeChef Starters156
-- 🏅 Solved 800+ DSA problems across CodeChef, Codeforces, and LeetCode
-- 🏅 Advanced to Stage-2 of AlgoUniversity Technology Fellowship program
+- 🏅 Solved 1200+ DSA problems across CodeChef, Codeforces,GeekforGeeks and LeetCode.
 
 ---
 
