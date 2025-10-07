@@ -41,16 +41,17 @@ Currently pursuing my B.Tech with a CGPA of 8.97, I balance academic excellence 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
 
-- 🏆 **CP Team Executive, Codame Club** (Nov 2024 - October 2025)
-  - Spearheaded 3+ coding competitions (Optigo,CodeBlitz etc) with 400+ registrations fostering vibrant and
-collaborative coding environement.
-  - Designed problem statements, test cases, and contributed to interactive coding sessions.
-
 - 👩🏻‍💻 **Web Developer Intern, SoTalented India** (July 2025 - September 2025)
   - Engineered company website using TypeScript and ReactJS, resulting in 35% faster page load speed based on
  Google Analytics, and optimizing overall site performance and user experience
   -  Integrated a user-friendly contact form leveraging REST APIs and Webhooks automating tasks through custom
  workflows.
+
+- 🏆 **CP Team Executive, Codame Club** (Nov 2024 - October 2025)
+  - Spearheaded 3+ coding competitions (Optigo,CodeBlitz etc) with 400+ registrations fostering vibrant and
+collaborative coding environement.
+  - Designed problem statements, test cases, and contributed to interactive coding sessions.
+
 
 ---
 
