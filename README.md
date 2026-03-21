@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6B9DF7&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Swastik+Sharma;Full+Stack+Developer;Competitive+Programmer)</div>
+# <div align="center">![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6B9DF7&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I%27m+Swastik+Sharma;Software+Developer;Competitive+Programmer;Blockchain+Enthusiast)</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="coding-gif" width="400"/>
@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px"> 
-  Building the Web, Breaking the Limits — Full Stack Dev with a Taste for CP
+    Turning coffee and complex logic into high-performance software.
   <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px">
 </h3>
 
@@ -30,13 +30,8 @@
 I'm a passionate Computer Science student at IIIT Bhopal with a deep love for building real-world applications that solve actual problems. My journey in tech is driven by curiosity and a constant desire to learn and master new technologies.
 
 - 🌱 Always exploring new domains and technologies to expand my skill set
-- 💡 Keen interest in Frontend,Backend,DevOps,AI and emerging tech ecosystems
+- 💡 Keen interest in Backend,DevOps,Gen Ai and blockchain.
 - 🧩 Problem-solver who enjoys the challenge of competitive programming
-- 📚 Lifelong learner committed to continuous improvement
-- 🚀 Passionate about contributing to innovative full-stack and open-source projects
-
-Currently pursuing my B.Tech with a CGPA of 8.97, I balance academic excellence with practical skills development through real-world projects and competitive programming challenges.
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
