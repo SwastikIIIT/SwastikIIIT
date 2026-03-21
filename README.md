@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20&%20%20Blockchain-brightgreen" />
   <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange" />
   <img src="https://img.shields.io/badge/IIIT-Bhopal-purple" />
