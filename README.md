@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Blockchain-brightgreen?style=flat-square" />
+ <img src="https://img.shields.io/badge/Stakeholders%20Addressed-5%2B-FF9800?style=flat-square" />
   <br/>
   <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/IIIT-Bhopal-purple?style=flat-square" />
@@ -47,12 +48,13 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
 <summary><b>🚀 Full Stack Intern — Suntek AI</b> &nbsp;<code>Oct 2025 – Mar 2026</code></summary>
 <br/>
 
-> Production-grade backend engineering, AI tooling, and cloud infrastructure at scale.
+>  Production-grade backend engineering, AI tooling, and cloud infrastructure at scale — serving 5+ enterprise stakeholders.
 
 - **Backend Architecture** — Built automated price tracking and data sync using Prisma, PostgreSQL & Cron jobs; Dockerized and deployed on Hetzner VPS → **30% faster deployments**
 - **Product Pipeline** — End-to-end SKU management, variant updates, metafield handling & catalog sync for a **10,000+ product catalog**
 - **Cloud Storage** — AWS S3 bulk image upload with parallel threading & request fragmentation → **40% performance boost**
 - **AI Tooling** — RAG-based AI product description generator with hallucination reduction; full CI/CD pipeline integration
+- **B2B Saas Tool**- Designed platform that addresses 5+ stakeholders and optmises business efficiency,transparency and productivity by **60%**
 
 </details>
 
