@@ -5,66 +5,95 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px"> 
-    Turning coffee and complex logic into high-performance software.
-  <img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="30px" height="30px">
+ ⚡ Turning coffee and complex logic into high-performance software. ⚡
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20&%20%20Blockchain-brightgreen" />
-  <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange" />
-  <img src="https://img.shields.io/badge/IIIT-Bhopal-purple" />
-  <img src="https://komarev.com/ghpvc/?username=swastikiiit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Blockchain-brightgreen?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/IIIT-Bhopal-purple?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=swastikiiit&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/swastik-sharma-943615290"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:swastikiiit.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/swastik1105"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/swastik_2005"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/swastik_2005"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/swastikiiit"><img src="https://img.shields.io/badge/GFG-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=swastikiiit&style=flat-square&color=00D9FF" />
 </p>
 
 ---
 ## <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AA6B&center=true&vCenter=true&width=600&height=40&lines=Remember%3A+Dream+in+logic+,+build+in+code" alt="Motivational Quote" /></div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</p>
+I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 9.06) who loves building real-world applications that solve actual problems. Driven by curiosity, I'm constantly exploring new tech — from backend systems and cloud infra to blockchain and generative AI.
 
-I'm a passionate Computer Science student at IIIT Bhopal with a deep love for building real-world applications that solve actual problems. My journey in tech is driven by curiosity and a constant desire to learn and master new technologies.
+- 🎓 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- 💡 Keen interest in **Backend, DevOps, Generative AI, and Blockchain**
+- 🧩 Competitive programmer with **1450+ DSA problems** solved
+- 🔍 Currently exploring **Microservices Architecture** and **System Design**
+- 🌱 Always learning, always building
 
-- 🌱 Always exploring new domains and technologies to expand my skill set
-- 💡 Keen interest in Backend,DevOps,Gen Ai and blockchain.
-- 🧩 Problem-solver who enjoys the challenge of competitive programming
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Experience
 
-- 👩🏻‍💻 **Web Developer Intern, SoTalented India** (July 2025 - September 2025)
-  - Engineered company website using TypeScript and ReactJS, resulting in 35% faster page load speed based on
- Google Analytics, and optimizing overall site performance and user experience
-  -  Integrated a user-friendly contact form leveraging REST APIs and Webhooks automating tasks through custom
- workflows.
+<details open>
+<summary><b>🚀 Full Stack Intern — Suntek AI</b> &nbsp;<code>Oct 2025 – Mar 2026</code></summary>
+<br/>
 
-- 🏆 **CP Team Executive, Codame Club** (Nov 2024 - October 2025)
-  - Spearheaded 3+ coding competitions (Optigo,CodeBlitz etc) with 400+ registrations fostering vibrant and
-collaborative coding environement.
-  - Designed problem statements, test cases, and contributed to interactive coding sessions.
+> Production-grade backend engineering, AI tooling, and cloud infrastructure at scale.
 
+- **Backend Architecture** — Built automated price tracking and data sync using Prisma, PostgreSQL & Cron jobs; Dockerized and deployed on Hetzner VPS → **30% faster deployments**
+- **Product Pipeline** — End-to-end SKU management, variant updates, metafield handling & catalog sync for a **10,000+ product catalog**
+- **Cloud Storage** — AWS S3 bulk image upload with parallel threading & request fragmentation → **40% performance boost**
+- **AI Tooling** — RAG-based AI product description generator with hallucination reduction; full CI/CD pipeline integration
+
+</details>
+
+<details open>
+<summary><b>💻 Web Developer Intern — SoTalented India</b> &nbsp;<code>Jul 2025 – Sep 2025</code></summary>
+<br/>
+
+> Frontend performance optimization and workflow automation.
+
+- Engineered company website with **TypeScript + ReactJS** → **35% faster page loads** (Google Analytics verified)
+- Built contact form using **REST APIs + Webhooks**, automating custom workflows
+
+</details>
+
+<details open>
+<summary><b>🏆 CP Team Executive — Codame Club</b> &nbsp;<code>Nov 2024 – Nov 2025</code></summary>
+<br/>
+
+> Community building through competitive programming.
+
+- Directed **4 coding competitions** — Optigo, FLOC, Mr. & Mrs. Coder, CodeBlitz — with **400+ registrations**
+- Designed problem statements, test cases, and ran coding workshops
+
+</details>
 
 ---
 
-## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Achievements
 
 <div align="center">
-  <a href="https://github.com/SwastikIIIT/CryptoCurrency-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=CryptoCurrency-Tracker&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
-  </a>
-  <a href="https://github.com/SwastikIIIT/AI-education-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=AI-education-portal&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
-  </a>
-  <a href="https://github.com/SwastikIIIT/AuthBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=AuthBackend&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
-  </a>
-  <a href="https://github.com/SwastikIIIT/Medical_RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SwastikIIIT&repo=Medical_RAG&title_color=ff64da&icon_color=bd93f9&text_color=38bdae&bg_color=282a36" />
-  </a>
+
+| 🏅 Achievement | Details |
+|:---:|:---:|
+| 🥈 Google Ideathon | **1st Runner Up** |
+| 💻 LeetCode | **1950 (Knight)** — Top 9.79% |
+| ⭐ CodeChef | **1613 (3-Star)** |
+| 🔵 Codeforces | **1401 (Specialist)** |
+| 🎯 OPTIGO (Inter-IIIT) | **33rd / 1,000+** participants — Top 5% |
+| 📊 CodeChef Starters 156 | **172nd / 43,114** participants |
+| 🧩 DSA Problems | **1500+** solved across platforms |
+
 </div>
 
 ---
@@ -72,85 +101,82 @@ collaborative coding environement.
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"> Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swastikiiit&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikiiit&layout=compact&theme=radical" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=swastikiiit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=swastikiiit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=swastikiiit&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikiiit&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF9800&currStreakLabel=00D9FF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikiiit&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF9800&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swastikiiit&theme=radical&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swastikiiit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Achievements
-
-- 🏅 Top 5% (33rd place) in Inter-IIIT Coding Contest (OPTIGO) out of 1,000+ participants
-- 🏅 Achieved 3-star rating on CodeChef (Max rating: 1613),1187 on Codeforces and 1756 on Leetcode(top 9.79%).
-- 🏅 Secured 172nd out of 43,114 participants in CodeChef Starters156
-- 🏅 Solved 1200+ DSA problems across CodeChef, Codeforces,GeekforGeeks and LeetCode.
 
 ---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Languages and Tools
-
 <div align="center">
 
-<!-- Core Languages -->
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui" />
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
+### Backend & AI
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-blueviolet?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
 
-<!-- Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify" />
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-<!-- Tools & Others -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash" />
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=swastikiiit&limit=4&theme=radical&combine_all_yearly_contributions=true" alt="contribution graph">
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/huDUAwzQYv6g2KWtH3/giphy.gif" width="40"> Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/swastik-sharma-943615290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:swastikiiit.05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/ghost_swastik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.codechef.com/users/swastik_2005" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/swastik_2005" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.leetcode.com/swastik1105" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/swastikiiit" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
 </div>
 
 ---
@@ -159,7 +185,3 @@ collaborative coding environement.
   <h3>📄 <a href="https://drive.google.com/file/d/1FI_tLF4bCWAQvxMLF7xIN7r6eCqcPrp_/view?usp=sharing">Check out my Resume</a></h3>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R0aHZuMWFhdDN4MHJuZXVzeHNxd3dkMmNveHZxd3VydWh0cmtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/swastikiiit/swastikiiit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div> -->
