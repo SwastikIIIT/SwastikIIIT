@@ -117,10 +117,6 @@ I'm a passionate Computer Science student at **IIIT Bhopal** (B.Tech CSE, CGPA: 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikiiit&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF9800&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swastikiiit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Languages and Tools
