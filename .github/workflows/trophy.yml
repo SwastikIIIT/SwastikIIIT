@@ -1,0 +1,26 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: swastikiiit
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          row: 1
+          column: 7
+          output-dir: assets
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/
+          git commit -m "Update trophy" || exit 0
+          git push
