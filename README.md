@@ -1,5 +1,6 @@
 # <div align="center">![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6B9DF7&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I%27m+Swastik+Sharma;Software+Developer;Competitive+Programmer;Blockchain+Enthusiast)</div>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="coding-gif" width="400"/>
 </div>
